@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T00:26:40.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6kryYdZ3nnLRV3mAjUEt" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T00:37:50.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_CndbvApbdgYTUYQALOR" version="20.2.8" type="github" pages="2">
   <diagram id="KC21K3655msZWkcL_p2v" name="Auditing of Payments of Employee Benefits - PHIC Pool Sharing (Through payroll)">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,61 @@
         <mxCell id="0hBIkFb9s6ztZNN5EmTh-2" value="&lt;h1&gt;Auditing of Payments of Employee Benefits - PHIC Pool Sharing (Through payroll)&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="45" y="40" width="760" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-3" target="0hBIkFb9s6ztZNN5EmTh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0hBIkFb9s6ztZNN5EmTh-3" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="385" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-5" target="0hBIkFb9s6ztZNN5EmTh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-5" value="Receiving of payroll with funded budget utilization request and status" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="345" y="190" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-6" target="0hBIkFb9s6ztZNN5EmTh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-6" value="Review of documents" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="345" y="290" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-7" target="0hBIkFb9s6ztZNN5EmTh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-7" value="Review of computations" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="345" y="390" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-8" target="0hBIkFb9s6ztZNN5EmTh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-8" value="Posting to Cash Disbursement Record" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="345" y="490" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-9" target="0hBIkFb9s6ztZNN5EmTh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-9" value="Final review and certification of the disbursement voucher" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="345" y="590" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-10" target="0hBIkFb9s6ztZNN5EmTh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-10" value="Releasing of the certified disbursement voucher/payroll" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="345" y="690" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-11" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="780" width="55" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EpME3VKb8Og38hKZZgKF" name="Receiving of payroll with funded budget utilization request and status">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EcNl-ay7uULNiIXxbWng-1" value="&lt;h1&gt;Receiving of payroll with funded budget utilization request and status&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="45" y="40" width="760" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
