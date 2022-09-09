@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T00:54:08.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PQ-zWnT_sMK9_b6AE5Kk" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-09T03:09:08.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="LPFLIB4UCUmuyB5iStiA" version="20.2.8" type="github" pages="2">
   <diagram id="KC21K3655msZWkcL_p2v" name="Auditing of Payments of Employee Benefits - PHIC Pool Sharing (Through payroll)">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,6 +62,21 @@
         <mxCell id="1" parent="0" />
         <mxCell id="EcNl-ay7uULNiIXxbWng-1" value="&lt;h1&gt;Receiving of payroll with funded budget utilization request and status&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="45" y="40" width="760" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nci9A8KmvOi3nvq0QEwW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="ET96Odi44zUCwHPOR9Uv-1" target="nci9A8KmvOi3nvq0QEwW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ET96Odi44zUCwHPOR9Uv-1" value="From Chief Admin Office" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="385" y="120" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nci9A8KmvOi3nvq0QEwW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="nci9A8KmvOi3nvq0QEwW-1" target="nci9A8KmvOi3nvq0QEwW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nci9A8KmvOi3nvq0QEwW-1" value="Payroll and BURS with supporting documents" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="366" y="220" width="119" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nci9A8KmvOi3nvq0QEwW-4" value="Incoming/outgoing clerk receives&amp;nbsp; documents" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="366" y="310" width="117.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
