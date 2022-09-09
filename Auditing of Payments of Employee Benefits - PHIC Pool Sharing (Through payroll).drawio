@@ -1,82 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T03:09:08.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="LPFLIB4UCUmuyB5iStiA" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-09T03:57:07.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="RLc1Vet6-f4rvvInXH2Z" version="20.2.8" type="github" pages="2">
   <diagram id="KC21K3655msZWkcL_p2v" name="Auditing of Payments of Employee Benefits - PHIC Pool Sharing (Through payroll)">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-2" value="&lt;h1&gt;Auditing of Payments of Employee Benefits - PHIC Pool Sharing (Through payroll)&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-2" value="&lt;h1&gt;Auditing of Payments of Employee Benefits - PHIC Pool Sharing (Through payroll)&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="45" y="40" width="760" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-3" target="0hBIkFb9s6ztZNN5EmTh-5">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-3" target="0hBIkFb9s6ztZNN5EmTh-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-3" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-3" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="385" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-5" target="0hBIkFb9s6ztZNN5EmTh-6">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-5" target="0hBIkFb9s6ztZNN5EmTh-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-5" value="&lt;a href=&quot;data:page/id,EpME3VKb8Og38hKZZgKF&quot;&gt;Receiving of payroll with funded budget utilization request and status&lt;/a&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-5" value="&lt;a href=&quot;data:page/id,EpME3VKb8Og38hKZZgKF&quot;&gt;Receiving of payroll with funded budget utilization request and status&lt;/a&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="345" y="190" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-6" target="0hBIkFb9s6ztZNN5EmTh-7">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-6" target="0hBIkFb9s6ztZNN5EmTh-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-6" value="Review of documents" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-6" value="Review of documents" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="345" y="290" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-7" target="0hBIkFb9s6ztZNN5EmTh-8">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-7" target="0hBIkFb9s6ztZNN5EmTh-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-7" value="Review of computations" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-7" value="Review of computations" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="345" y="390" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-8" target="0hBIkFb9s6ztZNN5EmTh-9">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-8" target="0hBIkFb9s6ztZNN5EmTh-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-8" value="Posting to Cash Disbursement Record" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-8" value="Posting to Cash Disbursement Record" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="345" y="490" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-9" target="0hBIkFb9s6ztZNN5EmTh-10">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-9" target="0hBIkFb9s6ztZNN5EmTh-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-9" value="Final review and certification of the disbursement voucher" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-9" value="Final review and certification of the disbursement voucher" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="345" y="590" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-10" target="0hBIkFb9s6ztZNN5EmTh-11">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-10" target="0hBIkFb9s6ztZNN5EmTh-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-10" value="Releasing of the certified disbursement voucher/payroll" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-10" value="Releasing of the certified disbursement voucher/payroll" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="345" y="690" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-11" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-11" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="397.5" y="780" width="55" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="EpME3VKb8Og38hKZZgKF" name="Receiving of payroll with funded budget utilization request and status">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EcNl-ay7uULNiIXxbWng-1" value="&lt;h1&gt;Receiving of payroll with funded budget utilization request and status&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="EcNl-ay7uULNiIXxbWng-1" value="&lt;h1&gt;Receiving of payroll with funded budget utilization request and status&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="45" y="40" width="760" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nci9A8KmvOi3nvq0QEwW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="ET96Odi44zUCwHPOR9Uv-1" target="nci9A8KmvOi3nvq0QEwW-1">
+        <mxCell id="nci9A8KmvOi3nvq0QEwW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="ET96Odi44zUCwHPOR9Uv-1" target="nci9A8KmvOi3nvq0QEwW-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ET96Odi44zUCwHPOR9Uv-1" value="From Chief Admin Office" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="ET96Odi44zUCwHPOR9Uv-1" value="From Chief Admin Office" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="385" y="120" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nci9A8KmvOi3nvq0QEwW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="nci9A8KmvOi3nvq0QEwW-1" target="nci9A8KmvOi3nvq0QEwW-4">
+        <mxCell id="nci9A8KmvOi3nvq0QEwW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="nci9A8KmvOi3nvq0QEwW-1" target="nci9A8KmvOi3nvq0QEwW-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nci9A8KmvOi3nvq0QEwW-1" value="Payroll and BURS with supporting documents" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="nci9A8KmvOi3nvq0QEwW-1" value="Payroll and BURS with supporting documents" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="366" y="220" width="119" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nci9A8KmvOi3nvq0QEwW-4" value="Incoming/outgoing clerk receives&amp;nbsp; documents" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nci9A8KmvOi3nvq0QEwW-4" target="SIi0jF9nBXDT7Ic_Eh-x-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nci9A8KmvOi3nvq0QEwW-4" value="Incoming/outgoing clerk receives&amp;nbsp; documents" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="366" y="310" width="117.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-1" target="SIi0jF9nBXDT7Ic_Eh-x-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;a href=&quot;https://viewer.diagrams.net/?tags=%7B%7D&amp;amp;highlight=0000ff&amp;amp;edit=_blank&amp;amp;layers=1&amp;amp;nav=1&amp;amp;page-id=H7nN1gzd26tVH5EXPg9N&amp;amp;title=Accounting%20Service%20Control%20Procedure.drawio.html#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjohnpaul4474%2FFMO-accounting%2Fmain%2FAccounting%2520Service%2520Control%2520Procedure.drawio.html&quot;&gt;Receiving and releasing of documents&amp;nbsp; (OBRS/BURS, DV, PO and other documents&lt;/a&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="358.12" y="400" width="134.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-3" target="SIi0jF9nBXDT7Ic_Eh-x-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-3" value="Accountant III receives hard copy of payroll&amp;nbsp; and BURS with complete supporting&lt;br&gt;documents" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="366.75" y="500" width="117.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-4" target="SIi0jF9nBXDT7Ic_Eh-x-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-4" value="e-copy of payroll" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="605" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-6" target="SIi0jF9nBXDT7Ic_Eh-x-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-6" value="Receives e-copy of payroll" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="590" width="117.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-8" target="SIi0jF9nBXDT7Ic_Eh-x-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-8" value="From HRMO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="120" y="585" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-11" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="393.13" y="690" width="66.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
