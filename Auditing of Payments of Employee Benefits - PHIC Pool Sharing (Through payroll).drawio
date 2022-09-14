@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T01:00:06.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="CnSD3uEaEm8MgewhEZgG" version="20.2.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-14T01:41:46.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6SOgO5vrdrSP2bEGm1lK" version="20.2.8" type="github" pages="4">
   <diagram id="KC21K3655msZWkcL_p2v" name="Auditing of Payments of Employee Benefits - PHIC Pool Sharing (Through payroll)">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -185,6 +185,23 @@
         <mxCell id="1" parent="0" />
         <mxCell id="L4pyr50fvpxqjTs_2r8S-1" value="&lt;h1&gt;Review of computations&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="45" y="40" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="8L8fu2q0j8Zxe5VnT9EU-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-1" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="8L8fu2q0j8Zxe5VnT9EU-5" target="8L8fu2q0j8Zxe5VnT9EU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-5" value="Workbook&amp;nbsp;&lt;br&gt;(Medical, non-medical personnel" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="351" y="160" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-6" value="Check the accuracy of computations of the amount of PhilHealth &lt;br&gt;Pool Sharing" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="375" y="220" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
