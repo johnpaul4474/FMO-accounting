@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T03:57:07.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="RLc1Vet6-f4rvvInXH2Z" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-14T00:52:10.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="e654AfK8_PyW5JXsUIYG" version="20.2.8" type="github" pages="4">
   <diagram id="KC21K3655msZWkcL_p2v" name="Auditing of Payments of Employee Benefits - PHIC Pool Sharing (Through payroll)">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EpME3VKb8Og38hKZZgKF" name="Receiving of payroll with funded budget utilization request and status">
-    <mxGraphModel dx="677" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,6 +114,75 @@
         <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-11" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="393.13" y="690" width="66.25" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sMm1-IjmNLf-irVkglVV" name="Review of documents">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E7dU1NPpUyAYLzMSKF3p-1" value="&lt;h1&gt;Review of documents&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="45" y="40" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dpTOOEZRferbl_KbS2W_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="XNDUsdVuCnXj0jtS5yp--1" target="dpTOOEZRferbl_KbS2W_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XNDUsdVuCnXj0jtS5yp--1" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="394.75" y="120" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dpTOOEZRferbl_KbS2W_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="dpTOOEZRferbl_KbS2W_-1" target="dpTOOEZRferbl_KbS2W_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpTOOEZRferbl_KbS2W_-1" value="Verify&amp;nbsp; completeness of &lt;br&gt;payroll by checking the&lt;br&gt;&amp;nbsp;page numbers" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="366" y="180" width="117.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dpTOOEZRferbl_KbS2W_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="dpTOOEZRferbl_KbS2W_-2" target="dpTOOEZRferbl_KbS2W_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpTOOEZRferbl_KbS2W_-2" value="Copy and write down the &lt;br&gt;BURS number to the &lt;br&gt;space provided &lt;br&gt;in the Payroll" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="366" y="270" width="117.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dpTOOEZRferbl_KbS2W_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="dpTOOEZRferbl_KbS2W_-6" target="dpTOOEZRferbl_KbS2W_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpTOOEZRferbl_KbS2W_-10" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="dpTOOEZRferbl_KbS2W_-9">
+          <mxGeometry x="-0.7467" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dpTOOEZRferbl_KbS2W_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="dpTOOEZRferbl_KbS2W_-6" target="dpTOOEZRferbl_KbS2W_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpTOOEZRferbl_KbS2W_-14" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="dpTOOEZRferbl_KbS2W_-12">
+          <mxGeometry x="-0.5538" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dpTOOEZRferbl_KbS2W_-6" value="Are documents&amp;nbsp;&lt;br&gt;complete?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="374.75" y="360" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dpTOOEZRferbl_KbS2W_-8" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="394.75" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dpTOOEZRferbl_KbS2W_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1" source="dpTOOEZRferbl_KbS2W_-11" target="dpTOOEZRferbl_KbS2W_-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="569" y="503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dpTOOEZRferbl_KbS2W_-11" value="Notify and return payroll to HRMO for appropriate&amp;nbsp;&lt;br&gt;action" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="510" y="380" width="117.5" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Jro121i4ryuF84WWN6i_" name="Review of computations">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
