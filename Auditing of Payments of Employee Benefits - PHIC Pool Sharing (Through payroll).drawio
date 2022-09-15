@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T00:53:52.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5Wtyel2BHptcIbCgusHQ" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-15T01:00:40.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Akv7YCepXs7TFjTGqyit" version="20.3.0" type="github" pages="4">
   <diagram id="KC21K3655msZWkcL_p2v" name="Auditing of Payments of Employee Benefits - PHIC Pool Sharing (Through payroll)">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Jro121i4ryuF84WWN6i_" name="Review of computations">
-    <mxGraphModel dx="390" dy="207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,8 +264,32 @@
         <mxCell id="a2ttijP3ZLv8-CGfaXyx-10" value="&lt;a href=&quot;https://viewer.diagrams.net/?tags=%7B%7D&amp;amp;highlight=0000ff&amp;amp;edit=_blank&amp;amp;layers=1&amp;amp;nav=1&amp;amp;page-id=VWKE-jAnXpTFors9ekIl&amp;amp;title=Accounting%20Service%20Control%20Procedure.drawio.html#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjohnpaul4474%2FFMO-accounting%2Fmain%2FAccounting%2520Service%2520Control%2520Procedure.drawio.html&quot;&gt;Notice of adjustments&lt;/a&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="220" y="605" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="a2ttijP3ZLv8-CGfaXyx-13" target="a2ttijP3ZLv8-CGfaXyx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a2ttijP3ZLv8-CGfaXyx-13" value="Accountant III shall &lt;br&gt;submit record of discrepancies to &lt;br&gt;HRMO for &lt;br&gt;reconciliation" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="375" y="690" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="a2ttijP3ZLv8-CGfaXyx-16" target="a2ttijP3ZLv8-CGfaXyx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-16" value="Reflect necessary adjustments to &lt;br&gt;hard copy and&lt;br&gt;&amp;nbsp;e-copy of payroll" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="375" y="780" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="a2ttijP3ZLv8-CGfaXyx-19" target="a2ttijP3ZLv8-CGfaXyx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-19" value="Hard copy and e-copy of payroll" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="351" y="860" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="a2ttijP3ZLv8-CGfaXyx-21" target="a2ttijP3ZLv8-CGfaXyx-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-21" value="Check and correct schedule of PhilHealth Pool Sharing Computation &lt;br&gt;(Accounting and COA copy)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="375" y="920" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-23" value="Accountant III shall prepare an adjusted e-copy of payroll &lt;br&gt;showing the totals per page" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
