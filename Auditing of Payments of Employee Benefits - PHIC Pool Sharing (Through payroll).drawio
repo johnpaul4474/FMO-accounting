@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T01:06:20.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="wCnP9cvdOTLi8TOhulf_" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-15T01:08:01.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="L7l-B8XCjF6f4pPppsLj" version="20.3.0" type="github" pages="5">
   <diagram id="KC21K3655msZWkcL_p2v" name="Auditing of Payments of Employee Benefits - PHIC Pool Sharing (Through payroll)">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,35 +22,41 @@
         <mxCell id="0hBIkFb9s6ztZNN5EmTh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-6" target="0hBIkFb9s6ztZNN5EmTh-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-6" value="Review of documents" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-6" value="&lt;a href=&quot;data:page/id,sMm1-IjmNLf-irVkglVV&quot;&gt;Review of documents&lt;/a&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="345" y="290" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-7" target="0hBIkFb9s6ztZNN5EmTh-8" edge="1">
+        <mxCell id="Gp8jLCc2utrCP6bHzZlF-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="0hBIkFb9s6ztZNN5EmTh-7" target="Gp8jLCc2utrCP6bHzZlF-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-7" value="Review of computations" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-7" value="&lt;a href=&quot;data:page/id,Jro121i4ryuF84WWN6i_&quot;&gt;Review of computations&lt;/a&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="345" y="390" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0hBIkFb9s6ztZNN5EmTh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-8" target="0hBIkFb9s6ztZNN5EmTh-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0hBIkFb9s6ztZNN5EmTh-8" value="Posting to Cash Disbursement Record" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="345" y="490" width="160" height="40" as="geometry" />
+          <mxGeometry x="345" y="590" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0hBIkFb9s6ztZNN5EmTh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-9" target="0hBIkFb9s6ztZNN5EmTh-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0hBIkFb9s6ztZNN5EmTh-9" value="Final review and certification of the disbursement voucher" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="345" y="590" width="160" height="40" as="geometry" />
+          <mxGeometry x="345" y="690" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0hBIkFb9s6ztZNN5EmTh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-10" target="0hBIkFb9s6ztZNN5EmTh-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0hBIkFb9s6ztZNN5EmTh-10" value="Releasing of the certified disbursement voucher/payroll" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="345" y="690" width="160" height="40" as="geometry" />
+          <mxGeometry x="345" y="790" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0hBIkFb9s6ztZNN5EmTh-11" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="397.5" y="780" width="55" height="30" as="geometry" />
+          <mxGeometry x="397.5" y="880" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp8jLCc2utrCP6bHzZlF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="Gp8jLCc2utrCP6bHzZlF-1" target="0hBIkFb9s6ztZNN5EmTh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp8jLCc2utrCP6bHzZlF-1" value="Receipt of proof list and preparation of Journal Entry Voucher (JEV)" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="345" y="490" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -349,6 +355,17 @@
         </mxCell>
         <mxCell id="a2ttijP3ZLv8-CGfaXyx-43" value="PHIC Sharing and the e-copy of payroll to the payroll clerk of HRMO for preparation of proof list" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="680" y="637.5" width="160" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2P8Etww8RWFoi6CfWF_c" name="Receipt of proof list and preparation of Journal Entry Voucher (JEV)">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dcmgGoBUrqfs60PEJcOV-1" value="&lt;h1&gt;Receipt of proof list and preparation of Journal Entry Voucher&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="45" y="40" width="760" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
