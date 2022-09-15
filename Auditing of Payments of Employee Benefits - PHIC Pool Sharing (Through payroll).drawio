@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T03:14:53.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="YhWvCXZ8IAB_g0iZ6U__" version="20.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-09-15T06:41:02.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="u_0fzyRyHV3q8-0vvu74" version="20.3.0" type="github" pages="5">
   <diagram id="KC21K3655msZWkcL_p2v" name="Auditing of Payments of Employee Benefits - PHIC Pool Sharing (Through payroll)">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="0hBIkFb9s6ztZNN5EmTh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-8" target="0hBIkFb9s6ztZNN5EmTh-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-8" value="Posting to Cash Disbursement Record" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-8" value="&lt;a href=&quot;https://viewer.diagrams.net/?tags=%7B%7D&amp;amp;highlight=0000ff&amp;amp;edit=_blank&amp;amp;layers=1&amp;amp;nav=1&amp;amp;page-id=uKNMfMnH9xhCLVrgpKE4&amp;amp;title=Accounting%20Service%20Control%20Procedure.drawio.html#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjohnpaul4474%2FFMO-accounting%2Fmain%2FAccounting%2520Service%2520Control%2520Procedure.drawio.html&quot;&gt;Posting to Cash Disbursement Record&lt;/a&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="345" y="590" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0hBIkFb9s6ztZNN5EmTh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-9" target="0hBIkFb9s6ztZNN5EmTh-10" edge="1">
@@ -46,7 +46,7 @@
         <mxCell id="0hBIkFb9s6ztZNN5EmTh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="0hBIkFb9s6ztZNN5EmTh-10" target="0hBIkFb9s6ztZNN5EmTh-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0hBIkFb9s6ztZNN5EmTh-10" value="Releasing of the certified disbursement voucher/payroll" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="0hBIkFb9s6ztZNN5EmTh-10" value="&lt;a href=&quot;https://viewer.diagrams.net/?tags=%7B%7D&amp;amp;highlight=0000ff&amp;amp;edit=_blank&amp;amp;layers=1&amp;amp;nav=1&amp;amp;page-id=kafvqBs8dUxxYr6IVNSI&amp;amp;title=Accounting%20Service%20Control%20Procedure.drawio.html#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjohnpaul4474%2FFMO-accounting%2Fmain%2FAccounting%2520Service%2520Control%2520Procedure.drawio.html&quot;&gt;Releasing of the certified disbursement voucher/payroll&lt;/a&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="345" y="790" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0hBIkFb9s6ztZNN5EmTh-11" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
@@ -57,6 +57,15 @@
         </mxCell>
         <mxCell id="Gp8jLCc2utrCP6bHzZlF-1" value="&lt;a href=&quot;data:page/id,2P8Etww8RWFoi6CfWF_c&quot;&gt;Receipt of proof list and preparation of Journal Entry Voucher (JEV)&lt;/a&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="345" y="490" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20VFTlnpSuK8eWxCqnYJ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="20VFTlnpSuK8eWxCqnYJ-1" target="0hBIkFb9s6ztZNN5EmTh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20VFTlnpSuK8eWxCqnYJ-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=8;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="250" y="682.5" width="50" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="20VFTlnpSuK8eWxCqnYJ-3" value="Chief Accountant shall proofread as to the veracity and completeness of supporting documents. Affixes signature on the payroll, JEV, BIR form 2307 and/or 2306 and summary then endorse to the incoming and outgoing clerk." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="687.5" width="230" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
