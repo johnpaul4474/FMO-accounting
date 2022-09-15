@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T02:06:23.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="w_SZY0lsjWXE2sHW8FgO" version="20.2.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-15T00:52:42.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Y1JMts_sE0L3d9MDOzJe" version="20.3.0" type="github" pages="4">
   <diagram id="KC21K3655msZWkcL_p2v" name="Auditing of Payments of Employee Benefits - PHIC Pool Sharing (Through payroll)">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EpME3VKb8Og38hKZZgKF" name="Receiving of payroll with funded budget utilization request and status">
-    <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,43 +75,43 @@
         <mxCell id="nci9A8KmvOi3nvq0QEwW-1" value="Payroll and BURS with supporting documents" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="366" y="220" width="119" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nci9A8KmvOi3nvq0QEwW-4" target="SIi0jF9nBXDT7Ic_Eh-x-1">
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nci9A8KmvOi3nvq0QEwW-4" target="SIi0jF9nBXDT7Ic_Eh-x-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nci9A8KmvOi3nvq0QEwW-4" value="Incoming/outgoing clerk receives&amp;nbsp; documents" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="366" y="310" width="117.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-1" target="SIi0jF9nBXDT7Ic_Eh-x-3">
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-1" target="SIi0jF9nBXDT7Ic_Eh-x-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;a href=&quot;https://viewer.diagrams.net/?tags=%7B%7D&amp;amp;highlight=0000ff&amp;amp;edit=_blank&amp;amp;layers=1&amp;amp;nav=1&amp;amp;page-id=H7nN1gzd26tVH5EXPg9N&amp;amp;title=Accounting%20Service%20Control%20Procedure.drawio.html#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjohnpaul4474%2FFMO-accounting%2Fmain%2FAccounting%2520Service%2520Control%2520Procedure.drawio.html&quot;&gt;Receiving and releasing of documents&amp;nbsp; (OBRS/BURS, DV, PO and other documents&lt;/a&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;a href=&quot;https://viewer.diagrams.net/?tags=%7B%7D&amp;amp;highlight=0000ff&amp;amp;edit=_blank&amp;amp;layers=1&amp;amp;nav=1&amp;amp;page-id=H7nN1gzd26tVH5EXPg9N&amp;amp;title=Accounting%20Service%20Control%20Procedure.drawio.html#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjohnpaul4474%2FFMO-accounting%2Fmain%2FAccounting%2520Service%2520Control%2520Procedure.drawio.html&quot;&gt;Receiving and releasing of documents&amp;nbsp; (OBRS/BURS, DV, PO and other documents&lt;/a&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="358.12" y="400" width="134.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-3" target="SIi0jF9nBXDT7Ic_Eh-x-6">
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-3" target="SIi0jF9nBXDT7Ic_Eh-x-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-3" value="Accountant III receives hard copy of payroll&amp;nbsp; and BURS with complete supporting&lt;br&gt;documents" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-3" value="Accountant III receives hard copy of payroll&amp;nbsp; and BURS with complete supporting&lt;br&gt;documents" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="366.75" y="500" width="117.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-4" target="SIi0jF9nBXDT7Ic_Eh-x-6">
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-4" target="SIi0jF9nBXDT7Ic_Eh-x-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-4" value="e-copy of payroll" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-4" value="e-copy of payroll" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="230" y="605" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-6" target="SIi0jF9nBXDT7Ic_Eh-x-11">
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-6" target="SIi0jF9nBXDT7Ic_Eh-x-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-6" value="Receives e-copy of payroll" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-6" value="Receives e-copy of payroll" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="367.5" y="590" width="117.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-8" target="SIi0jF9nBXDT7Ic_Eh-x-4">
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="SIi0jF9nBXDT7Ic_Eh-x-8" target="SIi0jF9nBXDT7Ic_Eh-x-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-8" value="From HRMO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-8" value="From HRMO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="120" y="585" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-11" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="SIi0jF9nBXDT7Ic_Eh-x-11" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="393.13" y="690" width="66.25" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -122,101 +122,139 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E7dU1NPpUyAYLzMSKF3p-1" value="&lt;h1&gt;Review of documents&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="E7dU1NPpUyAYLzMSKF3p-1" value="&lt;h1&gt;Review of documents&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="45" y="40" width="760" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dpTOOEZRferbl_KbS2W_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="XNDUsdVuCnXj0jtS5yp--1" target="dpTOOEZRferbl_KbS2W_-1">
+        <mxCell id="dpTOOEZRferbl_KbS2W_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="XNDUsdVuCnXj0jtS5yp--1" target="dpTOOEZRferbl_KbS2W_-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XNDUsdVuCnXj0jtS5yp--1" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="XNDUsdVuCnXj0jtS5yp--1" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="394.75" y="120" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dpTOOEZRferbl_KbS2W_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="dpTOOEZRferbl_KbS2W_-1" target="dpTOOEZRferbl_KbS2W_-2">
+        <mxCell id="dpTOOEZRferbl_KbS2W_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="dpTOOEZRferbl_KbS2W_-1" target="dpTOOEZRferbl_KbS2W_-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dpTOOEZRferbl_KbS2W_-1" value="Verify&amp;nbsp; completeness of &lt;br&gt;payroll by checking the&lt;br&gt;&amp;nbsp;page numbers" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="dpTOOEZRferbl_KbS2W_-1" value="Verify&amp;nbsp; completeness of &lt;br&gt;payroll by checking the&lt;br&gt;&amp;nbsp;page numbers" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="366" y="180" width="117.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dpTOOEZRferbl_KbS2W_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="dpTOOEZRferbl_KbS2W_-2" target="dpTOOEZRferbl_KbS2W_-6">
+        <mxCell id="dpTOOEZRferbl_KbS2W_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="dpTOOEZRferbl_KbS2W_-2" target="dpTOOEZRferbl_KbS2W_-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dpTOOEZRferbl_KbS2W_-2" value="Copy and write down the &lt;br&gt;BURS number to the &lt;br&gt;space provided &lt;br&gt;in the Payroll" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="dpTOOEZRferbl_KbS2W_-2" value="Copy and write down the &lt;br&gt;BURS number to the &lt;br&gt;space provided &lt;br&gt;in the Payroll" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="366" y="270" width="117.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dpTOOEZRferbl_KbS2W_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="dpTOOEZRferbl_KbS2W_-6" target="dpTOOEZRferbl_KbS2W_-8">
+        <mxCell id="dpTOOEZRferbl_KbS2W_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="dpTOOEZRferbl_KbS2W_-6" target="dpTOOEZRferbl_KbS2W_-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dpTOOEZRferbl_KbS2W_-10" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="dpTOOEZRferbl_KbS2W_-9">
+        <mxCell id="dpTOOEZRferbl_KbS2W_-10" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" parent="dpTOOEZRferbl_KbS2W_-9" vertex="1" connectable="0">
           <mxGeometry x="-0.7467" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dpTOOEZRferbl_KbS2W_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="dpTOOEZRferbl_KbS2W_-6" target="dpTOOEZRferbl_KbS2W_-11">
+        <mxCell id="dpTOOEZRferbl_KbS2W_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="dpTOOEZRferbl_KbS2W_-6" target="dpTOOEZRferbl_KbS2W_-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dpTOOEZRferbl_KbS2W_-14" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="dpTOOEZRferbl_KbS2W_-12">
+        <mxCell id="dpTOOEZRferbl_KbS2W_-14" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" parent="dpTOOEZRferbl_KbS2W_-12" vertex="1" connectable="0">
           <mxGeometry x="-0.5538" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dpTOOEZRferbl_KbS2W_-6" value="Are documents&amp;nbsp;&lt;br&gt;complete?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="dpTOOEZRferbl_KbS2W_-6" value="Are documents&amp;nbsp;&lt;br&gt;complete?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="374.75" y="360" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dpTOOEZRferbl_KbS2W_-8" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="dpTOOEZRferbl_KbS2W_-8" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="394.75" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dpTOOEZRferbl_KbS2W_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1" source="dpTOOEZRferbl_KbS2W_-11" target="dpTOOEZRferbl_KbS2W_-8">
+        <mxCell id="dpTOOEZRferbl_KbS2W_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" parent="1" source="dpTOOEZRferbl_KbS2W_-11" target="dpTOOEZRferbl_KbS2W_-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="569" y="503" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dpTOOEZRferbl_KbS2W_-11" value="Notify and return payroll to HRMO for appropriate&amp;nbsp;&lt;br&gt;action" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="dpTOOEZRferbl_KbS2W_-11" value="Notify and return payroll to HRMO for appropriate&amp;nbsp;&lt;br&gt;action" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="510" y="380" width="117.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Jro121i4ryuF84WWN6i_" name="Review of computations">
-    <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="390" dy="207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L4pyr50fvpxqjTs_2r8S-1" value="&lt;h1&gt;Review of computations&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="L4pyr50fvpxqjTs_2r8S-1" value="&lt;h1&gt;Review of computations&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="45" y="40" width="760" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="8L8fu2q0j8Zxe5VnT9EU-1">
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="8L8fu2q0j8Zxe5VnT9EU-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="425" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-1" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-1" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="390" y="100" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="8L8fu2q0j8Zxe5VnT9EU-5" target="8L8fu2q0j8Zxe5VnT9EU-6">
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="8L8fu2q0j8Zxe5VnT9EU-5" target="8L8fu2q0j8Zxe5VnT9EU-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-5" value="Workbook&amp;nbsp;&lt;br&gt;(Medical, non-medical personnel" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-5" value="Workbook&amp;nbsp;&lt;br&gt;(Medical, non-medical personnel" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="351" y="160" width="148" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="8L8fu2q0j8Zxe5VnT9EU-6" target="8L8fu2q0j8Zxe5VnT9EU-10">
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="8L8fu2q0j8Zxe5VnT9EU-6" target="8L8fu2q0j8Zxe5VnT9EU-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-6" value="Check the accuracy of computations of the amount of PhilHealth &lt;br&gt;Pool Sharing" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-6" value="Check the accuracy of computations of the amount of PhilHealth &lt;br&gt;Pool Sharing" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="375" y="220" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-10" value="Compute the pool amount to be shared to Medical and non-medical &lt;br&gt;personnel" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="375" y="310" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="8L8fu2q0j8Zxe5VnT9EU-13" target="8L8fu2q0j8Zxe5VnT9EU-10">
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8L8fu2q0j8Zxe5VnT9EU-10" target="a2ttijP3ZLv8-CGfaXyx-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=8;direction=west;" vertex="1" parent="1">
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-10" value="Compute the pool amount to be shared to Medical and non-medical &lt;br&gt;personnel" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="375" y="310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="8L8fu2q0j8Zxe5VnT9EU-13" target="8L8fu2q0j8Zxe5VnT9EU-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=8;direction=west;" parent="1" vertex="1">
           <mxGeometry x="310" y="300" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-15" value="Extract first the amount of professional fees of plantilla doctors and the visiting consultants from private patients. From the gross amount, 75 % will be given to plantilla doctors and visiting consultants. the remaining 25 % will be added to the pool to be shared equally by non-medical and medical employees." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="8L8fu2q0j8Zxe5VnT9EU-15" value="Extract first the amount of professional fees of plantilla doctors and the visiting consultants from private patients. From the gross amount, 75 % will be given to plantilla doctors and visiting consultants. the remaining 25 % will be added to the pool to be shared equally by non-medical and medical employees." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="80" y="302.5" width="250" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a2ttijP3ZLv8-CGfaXyx-1" target="a2ttijP3ZLv8-CGfaXyx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-1" value="Validate adjustments&lt;br&gt;made by HRMO" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="375" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="a2ttijP3ZLv8-CGfaXyx-3" target="a2ttijP3ZLv8-CGfaXyx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=8;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-4" value="verify accuracy of computation of sharing of new employees, resigned, retire employees, and employees with vacation, sick and or mandatory leaves. Extract data from the processed e-copy of payroll, particularly the subsistence and laundry allowance column for the applicable period and from the logbook of hospital clearances. in excess of 10 days of absence, a proportionate amount will be deducted from total share of the employee. NOTE: Always verify accumulated leaves from the summary of leaves of HRMO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="80" y="392.5" width="250" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="a2ttijP3ZLv8-CGfaXyx-6" target="a2ttijP3ZLv8-CGfaXyx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-6" value="Make a record of discrepancies found and verify from HRMO" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="375" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="a2ttijP3ZLv8-CGfaXyx-8" target="a2ttijP3ZLv8-CGfaXyx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-12" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="a2ttijP3ZLv8-CGfaXyx-11">
+          <mxGeometry x="-0.3393" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;is discrepancy &lt;br&gt;affect&amp;nbsp;the obligated amount?&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="580" width="95" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2ttijP3ZLv8-CGfaXyx-10" value="Notice of adjustments" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="220" y="605" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
