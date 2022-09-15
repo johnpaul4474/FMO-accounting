@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T01:23:29.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Rp0pAkF7eKBqp1hlq4UB" version="20.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-09-15T02:28:54.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ZYTRhDTGPYWiGnF-Uffj" version="20.3.0" type="github" pages="5">
   <diagram id="KC21K3655msZWkcL_p2v" name="Auditing of Payments of Employee Benefits - PHIC Pool Sharing (Through payroll)">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -360,7 +360,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2P8Etww8RWFoi6CfWF_c" name="Receipt of proof list and preparation of Journal Entry Voucher (JEV)">
-    <mxGraphModel dx="813" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="395" dy="209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -384,6 +384,9 @@
         </mxCell>
         <mxCell id="_7ullsj76Cjs-LGsn_LH-3" value="Accountant III shall &lt;br&gt;receive the Hard copy &lt;br&gt;and e-copy of&lt;br&gt;&amp;nbsp;proof list" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="375" y="260" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DMo9mPT2R9EAMrdo556n-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="_7ullsj76Cjs-LGsn_LH-5" target="DMo9mPT2R9EAMrdo556n-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_7ullsj76Cjs-LGsn_LH-5" value="Prepare JEV and&amp;nbsp;&lt;br&gt;print 1 copy" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="375" y="340" width="100" height="60" as="geometry" />
@@ -531,6 +534,21 @@
           <mxGeometry x="210" width="30" height="10" as="geometry">
             <mxRectangle width="30" height="10" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DMo9mPT2R9EAMrdo556n-1" value="Prepare and print BIR Form 2307 Certificate of Creditable Tax with incorporate payment thru bank in 3 copies" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="375" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsdwW07uPk1-yRNinFE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="7hsdwW07uPk1-yRNinFE-1" target="DMo9mPT2R9EAMrdo556n-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsdwW07uPk1-yRNinFE-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=8;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsdwW07uPk1-yRNinFE-2" value="3 copies for each plantilla doctor and visiting consultant for the tax on professional fees (refer to Revenue Regulations No. 10-2013 dated May 2, 2013) and (3%) tax for NON-VAT registered and&amp;nbsp; BIR Form 2306 Certificate of Final Tax Withheld at Source for the (5%) tax on government money for VAT-registered doctors" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="80" y="412.5" width="250" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsdwW07uPk1-yRNinFE-4" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
