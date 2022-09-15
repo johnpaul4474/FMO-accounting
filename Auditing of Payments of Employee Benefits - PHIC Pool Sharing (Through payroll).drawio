@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T03:03:32.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="HpYBc-XShJ2W1fJm8aI-" version="20.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-09-15T03:07:05.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nhFrb2AjtBwBcuhG8-bW" version="20.3.0" type="github" pages="5">
   <diagram id="KC21K3655msZWkcL_p2v" name="Auditing of Payments of Employee Benefits - PHIC Pool Sharing (Through payroll)">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -595,8 +595,32 @@
         <mxCell id="7hsdwW07uPk1-yRNinFE-17" value="Post payroll details to subsidiary ledger and logbook for processed payments of employee benefits for indexing" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="375.5" y="830" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7hsdwW07uPk1-yRNinFE-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="7hsdwW07uPk1-yRNinFE-19" target="7hsdwW07uPk1-yRNinFE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7hsdwW07uPk1-yRNinFE-19" value="Copy the control number from the logbook for processed payments of employee benefits for indexing them write down on the lower left side of the payroll" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="377" y="920" width="95.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsdwW07uPk1-yRNinFE-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="7hsdwW07uPk1-yRNinFE-21" target="7hsdwW07uPk1-yRNinFE-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsdwW07uPk1-yRNinFE-21" value="Accountant III shall review and re-audit the completeness of&amp;nbsp;&lt;br&gt;documents" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="920" width="95.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsdwW07uPk1-yRNinFE-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="7hsdwW07uPk1-yRNinFE-23" target="7hsdwW07uPk1-yRNinFE-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsdwW07uPk1-yRNinFE-23" value="Endorse the payroll with complete attachments to the Cask Book keeper for cash availability" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="830" width="95.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgrZLqtlbSCZoGdkM96-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="7hsdwW07uPk1-yRNinFE-24" target="cJgrZLqtlbSCZoGdkM96-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hsdwW07uPk1-yRNinFE-24" value="payroll with supporting documents" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="488.75" y="770" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgrZLqtlbSCZoGdkM96-1" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="537.75" y="720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
