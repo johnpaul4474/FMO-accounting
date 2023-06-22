@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T07:16:04.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iQtsvqbNnAfy9aWUstUZ" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T07:30:26.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VynaC88e3DM5c5LOQa2L" version="21.5.0" type="github">
   <diagram name="Page-1" id="J0lyRj6n2_-u4ndbuz0H">
     <mxGraphModel dx="1320" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -302,14 +302,25 @@
         <mxCell id="ko_6VQ7homJem2bXmBW5-81" value="Submit to MMO with the supplies" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" vertex="1" parent="1">
           <mxGeometry x="752.5" y="587.5" width="107.5" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-82" target="ko_6VQ7homJem2bXmBW5-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ko_6VQ7homJem2bXmBW5-82" value="MMO acknowledge return of supplies" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" vertex="1" parent="1">
           <mxGeometry x="890" y="587.5" width="115" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ko_6VQ7homJem2bXmBW5-86" value="Returns to MMO" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=0.8;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;" vertex="1" parent="1">
-          <mxGeometry x="571.25" y="720" width="470" height="240" as="geometry" />
+        <mxCell id="ko_6VQ7homJem2bXmBW5-86" value="Returns to MMO" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;spacing=0;strokeColor=#82b366;strokeOpacity=100;fillOpacity=100;fillColor=#d5e8d4;strokeWidth=0.8;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;" vertex="1" parent="1">
+          <mxGeometry x="570" y="720" width="470" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ko_6VQ7homJem2bXmBW5-89" value="Cost center check expire supplies and prepare MRF" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" vertex="1" parent="1">
           <mxGeometry x="610" y="587.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-90" target="ko_6VQ7homJem2bXmBW5-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1390" y="880" />
+              <mxPoint x="1390" y="597" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ko_6VQ7homJem2bXmBW5-90" value="MMO acknowledge cancelled supplies" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" vertex="1" parent="1">
           <mxGeometry x="860" y="845" width="107.5" height="70" as="geometry" />
@@ -338,11 +349,86 @@
         <mxCell id="ko_6VQ7homJem2bXmBW5-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-99" target="ko_6VQ7homJem2bXmBW5-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-107" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ko_6VQ7homJem2bXmBW5-106">
+          <mxGeometry x="-0.4329" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-99" target="ko_6VQ7homJem2bXmBW5-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ko_6VQ7homJem2bXmBW5-99" value="IS THE ITEM AVAILABLE?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1307.49" y="320" width="100.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ko_6VQ7homJem2bXmBW5-100" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1340.11" y="444.75" width="35.25" height="35.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-108" target="ko_6VQ7homJem2bXmBW5-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-108" value="Cost center issue charge slip" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" vertex="1" parent="1">
+          <mxGeometry x="1432.5" y="338.25" width="110" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-109" target="ko_6VQ7homJem2bXmBW5-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-109" value="Advise patient to" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="343.25" width="95" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-112" target="ko_6VQ7homJem2bXmBW5-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1730" y="440" />
+              <mxPoint x="1730" y="597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-112" value="Cost center checks for the OR and issue supplies" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="410" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-115" value="Returns from patients" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;spacing=0;strokeColor=#82b366;strokeOpacity=100;fillOpacity=100;fillColor=#d5e8d4;strokeWidth=0.8;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="500" width="320" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-117" target="ko_6VQ7homJem2bXmBW5-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-117" value="Issue" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="700" width="48.43" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-118" target="ko_6VQ7homJem2bXmBW5-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1390" y="718" />
+              <mxPoint x="1390" y="597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-118" value="Cost center check and verify unused supplies" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="683.75" width="115.36" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-123" value="Preparation of consumption report" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;spacing=0;strokeColor=#d6b656;strokeOpacity=100;fillOpacity=100;fillColor=#fff2cc;strokeWidth=0.8;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="500" width="410" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-124" target="ko_6VQ7homJem2bXmBW5-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-124" value="Cost center print monthly consupmtion report" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" vertex="1" parent="1">
+          <mxGeometry x="1485.5" y="570" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-125" target="ko_6VQ7homJem2bXmBW5-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-125" value="Submit to Accounting Office" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" vertex="1" parent="1">
+          <mxGeometry x="1485.5" y="680" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-127" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1517.5" y="770" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-134" target="ko_6VQ7homJem2bXmBW5-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ko_6VQ7homJem2bXmBW5-134" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="700" width="75" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
