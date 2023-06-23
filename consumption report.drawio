@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T07:31:10.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hY5cBHr08xkzpnqXXjtW" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T00:07:50.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vGcdbvfCiH5eFneyrLLa" version="21.5.0" type="github">
   <diagram name="Page-1" id="J0lyRj6n2_-u4ndbuz0H">
-    <mxGraphModel dx="2734" dy="1411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3190" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,7 +317,7 @@
         <mxCell id="ko_6VQ7homJem2bXmBW5-82" value="MMO acknowledge return of supplies" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" vertex="1" parent="1">
           <mxGeometry x="890" y="587.5" width="115" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ko_6VQ7homJem2bXmBW5-86" value="Returns to MMO" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;spacing=0;strokeColor=#82b366;strokeOpacity=100;fillOpacity=100;fillColor=#d5e8d4;strokeWidth=0.8;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;" vertex="1" parent="1">
+        <mxCell id="ko_6VQ7homJem2bXmBW5-86" value="Cancelled RIS" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;spacing=0;strokeColor=#82b366;strokeOpacity=100;fillOpacity=100;fillColor=#d5e8d4;strokeWidth=0.8;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;align=center;" vertex="1" parent="1">
           <mxGeometry x="570" y="720" width="470" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ko_6VQ7homJem2bXmBW5-89" value="Cost center check expire supplies and prepare MRF" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" vertex="1" parent="1">
