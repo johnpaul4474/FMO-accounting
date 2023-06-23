@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T08:42:16.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-FpvlDXBhWvCFczZzrf-" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T08:42:53.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="v1Uz8JJi5Z96Icu_BoKi" version="21.5.0" type="github">
   <diagram name="Page-1" id="J0lyRj6n2_-u4ndbuz0H">
     <mxGraphModel dx="2049" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -537,10 +537,10 @@
         <mxCell id="ko_6VQ7homJem2bXmBW5-216" value="No change in cost center stock card" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="777.5" width="80" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="3O1K4HGOALP5KJhYzIOL-1" value="Approved by MIS:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3O1K4HGOALP5KJhYzIOL-1" value="Approved by MIS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1010" width="150" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="3O1K4HGOALP5KJhYzIOL-2" value="Approved by FMO:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3O1K4HGOALP5KJhYzIOL-2" value="Approved by FMO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1010" width="150" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="3O1K4HGOALP5KJhYzIOL-3" value="Prepared by Accounting&amp;nbsp; and John Paul S. Arce" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
