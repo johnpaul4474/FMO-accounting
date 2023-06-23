@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T08:42:53.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="v1Uz8JJi5Z96Icu_BoKi" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T08:44:39.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Jmif1uH89GamVS9koEvJ" version="21.5.0" type="github">
   <diagram name="Page-1" id="J0lyRj6n2_-u4ndbuz0H">
     <mxGraphModel dx="2049" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qVswXqrrGsFflSgT77Yx-146" value="&lt;h1&gt;Proposed High Level Assessment for Management Accounting Reports&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="qVswXqrrGsFflSgT77Yx-146" value="&lt;h1&gt;Proposed High Level Assessment for generating Management Accounting Reports&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="55" y="10" width="1195" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ko_6VQ7homJem2bXmBW5-1" value="END" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=2fs9UQbkpLP_;" parent="1" vertex="1">
@@ -537,14 +537,14 @@
         <mxCell id="ko_6VQ7homJem2bXmBW5-216" value="No change in cost center stock card" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="777.5" width="80" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="3O1K4HGOALP5KJhYzIOL-1" value="Approved by MIS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3O1K4HGOALP5KJhYzIOL-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Approved by MIS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1010" width="150" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="3O1K4HGOALP5KJhYzIOL-2" value="Approved by FMO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3O1K4HGOALP5KJhYzIOL-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Approved by FMO&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1010" width="150" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="3O1K4HGOALP5KJhYzIOL-3" value="Prepared by Accounting&amp;nbsp; and John Paul S. Arce" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="990" width="150" height="52.5" as="geometry" />
+        <mxCell id="3O1K4HGOALP5KJhYzIOL-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Prepared by Accounting&amp;nbsp; and John Paul S. Arce&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="990" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
