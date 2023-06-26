@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T03:11:16.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_PrWt2Of1iqZXeH73czk" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T03:11:41.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4RxKIztuKDqn_ZuK47Lb" version="21.5.0" type="github">
   <diagram name="Page-1" id="J0lyRj6n2_-u4ndbuz0H">
     <mxGraphModel dx="1595" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
         <mxCell id="qVswXqrrGsFflSgT77Yx-12" value="PREPARATION OF IAR" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=RXs9OeCp4kVb;" parent="1" vertex="1">
           <mxGeometry x="68" y="307" width="165" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qVswXqrrGsFflSgT77Yx-13" value="IAR SUMMARY OF IAR" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=13;fontColor=#3a414a;align=center;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=gYs9m8~hJAxD;" parent="1" vertex="1">
+        <mxCell id="qVswXqrrGsFflSgT77Yx-13" value="SUMMARY OF&lt;br&gt;&amp;nbsp;IAR" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=13;fontColor=#3a414a;align=center;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=gYs9m8~hJAxD;" parent="1" vertex="1">
           <mxGeometry x="285" y="313" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ko_6VQ7homJem2bXmBW5-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qVswXqrrGsFflSgT77Yx-15" edge="1">
@@ -41,7 +41,7 @@
         <mxCell id="qVswXqrrGsFflSgT77Yx-15" value="PREPARATION OF RIS" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=OYs974KPALUt;" parent="1" vertex="1">
           <mxGeometry x="68" y="378" width="165" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qVswXqrrGsFflSgT77Yx-16" value="RIS RSMI REPORT" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=13;fontColor=#3a414a;align=center;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=5Ys9VWO-W1IM;" parent="1" vertex="1">
+        <mxCell id="qVswXqrrGsFflSgT77Yx-16" value="RSMI REPORT" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=13;fontColor=#3a414a;align=center;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=5Ys9VWO-W1IM;" parent="1" vertex="1">
           <mxGeometry x="285" y="407.75" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="qVswXqrrGsFflSgT77Yx-18" value="Additional in the MMO Stock Card" style="group;spacingLeft=8;align=left;spacing=0;strokeColor=none;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;verticalAlign=middle;html=1;" parent="1" vertex="1">
