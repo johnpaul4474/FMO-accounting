@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T03:11:41.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4RxKIztuKDqn_ZuK47Lb" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T03:18:30.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="a_pOQFIu0sQQTaO-70Ix" version="21.5.0" type="github">
   <diagram name="Page-1" id="J0lyRj6n2_-u4ndbuz0H">
-    <mxGraphModel dx="1595" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1094" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,16 +161,16 @@
         <mxCell id="ko_6VQ7homJem2bXmBW5-35" value="Is the supplies available ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="607.5" y="335" width="100.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ko_6VQ7homJem2bXmBW5-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ko_6VQ7homJem2bXmBW5-36" target="ko_6VQ7homJem2bXmBW5-156" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BWtqKNz6Vz2y2dsgDYOs-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-36" target="ko_6VQ7homJem2bXmBW5-124">
+        <mxCell id="BWtqKNz6Vz2y2dsgDYOs-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.314;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-36" target="ko_6VQ7homJem2bXmBW5-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1050" y="358" />
-              <mxPoint x="1050" y="615" />
+              <mxPoint x="960" y="358" />
+              <mxPoint x="960" y="170" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BWtqKNz6Vz2y2dsgDYOs-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-36" target="ko_6VQ7homJem2bXmBW5-95">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ko_6VQ7homJem2bXmBW5-36" value="Issue supplies to cost center" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" parent="1" vertex="1">
           <mxGeometry x="803.04" y="335" width="124.64" height="45" as="geometry" />
@@ -277,7 +277,7 @@
         <mxCell id="ko_6VQ7homJem2bXmBW5-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ko_6VQ7homJem2bXmBW5-91" target="ko_6VQ7homJem2bXmBW5-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ko_6VQ7homJem2bXmBW5-91" value="Cost center check RIS Receive for duplicate and inform MMO" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" parent="1" vertex="1">
+        <mxCell id="ko_6VQ7homJem2bXmBW5-91" value="Cost center check RIS&amp;nbsp;&lt;br&gt;for any discrepancy and inform MMO" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" parent="1" vertex="1">
           <mxGeometry x="652.5" y="682.5" width="177.5" height="95" as="geometry" />
         </mxCell>
         <mxCell id="ko_6VQ7homJem2bXmBW5-94" value="Out-patient/Walk in" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;spacing=0;strokeColor=#666666;strokeOpacity=100;fillOpacity=100;fillColor=#f5f5f5;strokeWidth=0.8;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#333333;align=center;" parent="1" vertex="1">
@@ -351,9 +351,6 @@
           <mxGeometry x="1320" y="570" width="159" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ko_6VQ7homJem2bXmBW5-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.438;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ko_6VQ7homJem2bXmBW5-125" target="ko_6VQ7homJem2bXmBW5-127" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BWtqKNz6Vz2y2dsgDYOs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-125" target="BWtqKNz6Vz2y2dsgDYOs-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ko_6VQ7homJem2bXmBW5-125" value="Submit to Accounting Office" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#3a414a;align=center;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;lucidId=ogs9_VXGJzux;" parent="1" vertex="1">
@@ -461,18 +458,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BWtqKNz6Vz2y2dsgDYOs-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-156" target="ko_6VQ7homJem2bXmBW5-57">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="960" y="257" />
-              <mxPoint x="960" y="178" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BWtqKNz6Vz2y2dsgDYOs-36" value="Accept" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BWtqKNz6Vz2y2dsgDYOs-35">
-          <mxGeometry x="-0.8843" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="BWtqKNz6Vz2y2dsgDYOs-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ko_6VQ7homJem2bXmBW5-156" target="ko_6VQ7homJem2bXmBW5-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ko_6VQ7homJem2bXmBW5-156" value="Cost center accept/reject supplies" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="815.36" y="212" width="100.5" height="90" as="geometry" />
@@ -583,6 +570,14 @@
         </mxCell>
         <mxCell id="BWtqKNz6Vz2y2dsgDYOs-38" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="294.87" y="532" width="35.25" height="35.25" as="geometry" />
+        </mxCell>
+        <mxCell id="BWtqKNz6Vz2y2dsgDYOs-47" value="Accept" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="939.9977777777782" y="257" as="geometry">
+            <mxPoint x="-75" y="52" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWtqKNz6Vz2y2dsgDYOs-48" value="&lt;h1&gt;Legend:&lt;/h1&gt;&lt;div&gt;IAR - Inspection and acceptance report&lt;/div&gt;&lt;div&gt;RIS - Requisition and issuance slip&lt;br&gt;RSMI - Report of supplies and materials issued&lt;br&gt;RIF - Requisition Issue form&lt;br&gt;PTR - Property transfer report&lt;br&gt;MRF - Material Receipt Form&lt;br&gt;RX - Prescription&lt;br&gt;CS - Charge Slip&lt;br&gt;OR - Official Receipt&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="980" width="335" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
